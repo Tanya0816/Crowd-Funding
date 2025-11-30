@@ -1,0 +1,104 @@
+body {
+    background: #f2ecdf;
+    font-family: "Garamond", serif;
+}
+
+.vintage-container {
+    text-align: center;
+    padding: 40px;
+}
+
+.vintage-header {
+    margin-bottom: 30px;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: bold;
+    color: #5a4126;
+    text-shadow: 2px 2px #d8c6a4;
+}
+
+.sub-title {
+    color: #7a6247;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.vintage-card {
+    background: #fff7e6;
+    border: 3px solid #b89b76;
+    border-radius: 12px;
+    width: 420px;
+    margin: auto;
+    padding: 30px;
+    box-shadow: 0 0 30px #d1c3ab;
+}
+
+.vintage-img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.input-label {
+    color: #5a4126;
+    font-size: 18px;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.vintage-input {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #b89b76;
+    border-radius: 8px;
+    background: #fffaf2;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.btn-vintage,
+.btn-donate,
+.btn-withdraw,
+.btn-check {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin-top: 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: "Garamond", serif;
+    font-size: 18px;
+}
+
+.btn-vintage {
+    background: #b89b76;
+    color: white;
+    border: none;
+}
+
+.btn-donate {
+    background: #7a5c3d;
+    color: white;
+    border: none;
+}
+
+.btn-withdraw {
+    background: #ab4f4f;
+    color: white;
+    border: none;
+}
+
+.btn-check {
+    background: #c9a36a;
+    color: white;
+    border: none;
+}
+
+.balance-text {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #5a4126;
+    font-weight: bold;
+}
