@@ -179,7 +179,7 @@ function CrowdFund() {
 
             <div className="vintage-card">
 
-                <img src="./funding.jpg" className="vintage-img" alt="funding" />
+                <img src="./newpc.jpg" className="vintage-img" alt="funding" />
 
                 <label className="input-label">Donation Amount (ETH)</label>
                 <input
